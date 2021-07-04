@@ -13,28 +13,36 @@ Think through the solution and design it well
 
 --------------------------------
 Compile instructions : 
+
 $ javac PrintPermutations.java
+
 --------------------
 
 Sample runs:
 $ java PrintPermutations GOD
+
 GOD
 GDO
 OGD
 ODG
 DGO
 DOG
+
 -----------
 $ java PrintPermutations 123
+
 123
 132
 213
 231
 312
 321
+
 -----------
 $ java PrintPermutations 
+
 INVALID arguments. Expected Arg1 = Input string.
+
 ----------
 $ java PrintPermutations g
 g
